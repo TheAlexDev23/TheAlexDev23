@@ -1,5 +1,5 @@
 - Hi, I’m @TheAlexDev23
-- I’m interested in Game development, Web Development, Mobile App Development, Desktop Apps development,  
+- I’m interested in Game development, Web Development, Mobile App Development, Desktop Apps development and Computer Science
 - I’m currently learning ASP.NET Core, JavaScript, .Net MAUI
 - If you wish to reach me, email to: thealexdev23@gmail.com
 
