@@ -15,6 +15,7 @@ Well just a kid that likes computers and all that stuff
 - .Net Xamarin
 - ASP.NET Core (still learning)
 - Unity 3D and 2D
+- AvaloniaUI
 
 # Other things about myself
 - I love open source software and if possible I prefer using it on every ocasion.
