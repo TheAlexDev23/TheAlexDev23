@@ -5,6 +5,7 @@ Well just a kid that likes computers and all that stuff
 - C#
 - C
 - Python
+- SQL
 
 # Markup languages
 - HTML + CSS
