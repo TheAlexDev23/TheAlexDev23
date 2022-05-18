@@ -6,6 +6,7 @@ Well just a kid that likes computers and all that stuff
 - C
 - Python
 - SQL
+- JavaScript (still learning)
 
 # Markup languages
 - HTML + CSS
@@ -14,7 +15,7 @@ Well just a kid that likes computers and all that stuff
 # Technologies I know
 - .Net WPF
 - .Net Xamarin
-- ASP.NET Core (still learning)
+- ASP.NET Core
 - Unity 3D and 2D
 - AvaloniaUI
 
