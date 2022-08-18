@@ -22,7 +22,7 @@ Well just a kid that likes computers and all that stuff
 # Other things about myself
 - I love open source software and if possible I prefer using it on every ocasion.
 - I’m interested in Game development, Web Development, Mobile App Development, Desktop Apps development and Computer Science
-- I’m currently learning ASP.NET Core, JavaScript, .Net MAUI
+- I’m currently learning JavaScript, .Net MAUI
 - I use Arch btw
 - If you wish to reach me, email to: thealexdev23@gmail.com or thealexdev23@protonmail.com
 
