@@ -1,6 +1,3 @@
-# Who am I?
-Well just a kid that likes computers and all that stuff
-
 # Programming languages I know
 - C#
 - C
