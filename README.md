@@ -11,7 +11,7 @@ Amateur developer
 - HTML + CSS
 - XAML
 
-# Technologies
+# Technologies / Frameworks
 - .Net WPF
 - .Net Xamarin
 - ASP.NET Core
