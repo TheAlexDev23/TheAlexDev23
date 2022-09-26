@@ -1,4 +1,6 @@
-# Programming languages I know
+Amateur developer
+
+# Programming languages I like to work with
 - C#
 - C
 - Python
@@ -9,7 +11,7 @@
 - HTML + CSS
 - XAML
 
-# Technologies I know
+# Technologies
 - .Net WPF
 - .Net Xamarin
 - ASP.NET Core
