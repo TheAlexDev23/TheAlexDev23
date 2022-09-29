@@ -1,11 +1,11 @@
 Amateur developer
 
-# Programming languages I like to work with
+# Programming languages I mainly to work with
 - C#
 - C
 - Python
 - SQL
-- JavaScript (still learning)
+- JavaScript
 
 # Markup languages
 - HTML + CSS
