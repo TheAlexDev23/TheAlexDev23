@@ -18,4 +18,4 @@
 - If you wish to reach me, email to: thealexdev23@gmail.com or thealexdev@protonmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAlexDev23&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thealexdev23&show_icons=true&cache_seconds=86400&theme=onedark)]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thealexdev23&show_icons=true&cache_seconds=86400&theme=onedark)
