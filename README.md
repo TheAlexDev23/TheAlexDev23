@@ -17,5 +17,8 @@
 - I’m interested in Game development, Web Development and Computer Science.
 - If you wish to reach me, email to: thealexdev23@gmail.com or thealexdev@protonmail.com
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAlexDev23&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thealexdev23&show_icons=true&cache_seconds=86400&theme=onedark)
+## Stats
+<p align="center">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=thealexdev23&theme=onedark&show_icons=true" alt="TheAlexDev's Github readme stats">
+    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=thealexdev23&&theme=onedark&show_icons=true" alt="thealexdev23"/>
+</p>
