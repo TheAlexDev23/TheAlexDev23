@@ -1,17 +1,17 @@
-Amateur developer
+# Amateur developer
 
-# Things I mainly work with
+## Things I mainly work with
 
-## Languages
+### Languages
 - C#
 - C
 - Python
 
-## Technologies / Frameworks 
+### Technologies / Frameworks 
 - ASP.NET Core
 - Unity 3D and 2D
 
-# Other things about myself
+## Other things about myself
 - I know a bit of everything (from mobile to desktop frameworks, from low to high level). And I have issues concentrating on one topic 🥲
 - I enjoy using open source software.
 - I’m interested in Game development, Web Development and Computer Science.
