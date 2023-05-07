@@ -1,28 +1,20 @@
 Amateur developer
 
-# Programming languages I mainly to work with
+# Things I mainly work with
+
+## Languages
 - C#
 - C
 - Python
-- SQL
-- JavaScript
 
-# Markup languages
-- HTML + CSS
-- XAML
-
-# Technologies / Frameworks
-- .Net WPF
-- .Net Xamarin
+## Technologies / Frameworks 
 - ASP.NET Core
 - Unity 3D and 2D
-- AvaloniaUI
 
 # Other things about myself
-- I love open source software and if possible I prefer using it on every ocasion.
-- I’m interested in Game development, Web Development, Mobile App Development, Desktop Apps development and Computer Science
-- I’m currently learning JavaScript, .Net MAUI
-- I use Arch btw
+- I know a bit of everything (from mobile to desktop frameworks, from low to high level). And I have issues concentrating on one topic 🥲
+- I enjoy using open source software.
+- I’m interested in Game development, Web Development and Computer Science.
 - If you wish to reach me, email to: thealexdev23@gmail.com or thealexdev@protonmail.com
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAlexDev23&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
