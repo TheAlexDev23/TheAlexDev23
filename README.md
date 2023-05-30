@@ -22,7 +22,7 @@
 
 
 ## Other things about myself
-- I know a bit of everything (from mobile to desktop frameworks, from low to high level). And I have issues concentrating on one topic 🥲
+- I know a bit of everything (from mobile to desktop frameworks, from low to high level). And I have issues concentrating on one topic
 - I enjoy using open source software.
 - I’m interested in Linux, Game development, Web Development and Computer Science.
 - If you wish to reach me, email to: thealexdev23@gmail.com or thealexdev@protonmail.com
