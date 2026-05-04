@@ -1,4 +1,4 @@
-Currently in last year of highschool. 
+Currently in last year of highschool. Gaining capital for larger projects.
 
 Main projects at the moment:
 - [marksyib](https://marksyib.com)
@@ -6,7 +6,8 @@ Main projects at the moment:
 - [summarsky](https://summarsky.com)
 - [Vente](https://venteapp.es)
 
-Gaining capital for larger projects.
+Notable open source projects:
+- [power-options](https://github.com/thealexdev23/power-options)
 
 <p align="center" style="display: flex; flex-directin: column;">
     <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=thealexdev23&&theme=onedark&show_icons=true" alt="thealexdev23"/>
