@@ -1,4 +1,4 @@
-CS @ UWaterloo
+1A CS @ UWaterloo
 
 Main projects at the moment:
 - [marksyib](https://marksyib.com)
