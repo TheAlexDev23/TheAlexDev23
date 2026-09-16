@@ -1,4 +1,4 @@
-Currently in last year of highschool. Gaining capital for larger projects.
+CS @ UWaterloo
 
 Main projects at the moment:
 - [marksyib](https://marksyib.com)
