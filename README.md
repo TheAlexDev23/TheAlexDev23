@@ -1,13 +1,6 @@
 1A CS @ UWaterloo
 
-Main projects at the moment:
-- [marksyib](https://marksyib.com)
-- [distropack](https://distropack.dev)
-- [summarsky](https://summarsky.com)
-- [Vente](https://venteapp.es)
-
-Notable open source projects:
-- [power-options](https://github.com/thealexdev23/power-options)
+About me: https://ak23.xyz
 
 <p align="center" style="display: flex; flex-directin: column;">
     <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=thealexdev23&&theme=onedark&show_icons=true" alt="thealexdev23"/>
